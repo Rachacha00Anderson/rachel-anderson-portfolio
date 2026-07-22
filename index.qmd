@@ -1,10 +1,15 @@
 ---
 title: "about me"
 subtitle: "my data science portfolio"
-# use quarto markdown to 
 ---
 
-# Title 1 Header
-## Title 2 Header
+# Hi, I'm Rachel
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+I'm a Financial Economics student at BYU–Idaho (minor in Business Analytics) with a passion for building tools that turn data into decisions — from Excel/VBA financial models and automated reporting pipelines to analysis in Python and SQL. I'm also an FAA-licensed private pilot.
+
+This site is my data science portfolio. You can find [my resume](resume.qmd) here, and as I complete new projects in data cleansing, exploration, storytelling, and machine learning, they'll be posted in the sections above.
+
+## Get in touch
+
+- Email: [rachel00anderson@gmail.com](mailto:rachel00anderson@gmail.com)
+- LinkedIn: [linkedin.com/in/rachel-anderson--](https://www.linkedin.com/in/rachel-anderson--)

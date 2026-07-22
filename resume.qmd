@@ -1,89 +1,86 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+title: "Rachel Anderson"
+subtitle: "Financial Economics Student | FAA-Licensed Private Pilot"
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+Winston-Salem, NC | [rachel00anderson@gmail.com](mailto:rachel00anderson@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rachel-anderson--)
 
+## Summary
 
-## Currently
+FAA-licensed private pilot and Financial Economics student (3.9 GPA) with hands-on experience in variance and cost analysis, forecasting, account reconciliation, and financial reporting. Advanced Excel and VBA, with a record of building financial models and automated reports.
 
-Standing on the shoulders of giants
+## Skills
 
-### Specialized in
+**Financial Analysis:** variance and cost analysis, forecasting and modeling (revenue, expense, cash flow), budgeting, financial reporting and KPIs, income statement and balance sheet analysis, investment and risk analysis
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+**Software and Tools:** Excel (advanced VBA, Power Query), Microsoft Office Suite, QuickBooks, Bloomberg Terminal, Python, SQL, Power BI, Tableau
 
+**Accounting Operations:** account reconciliation, payment processing, monthly billing and payroll support, data validation, process improvement
 
-### Research interests
+## Professional Experience
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### Teaching Assistant, Financial Modeling | Brigham Young University–Idaho
 
+*Rexburg, ID | May 2026 – Present*
+
+- Selected by the professor to help build a new Financial Modeling course; grade and validate 30+ students' Excel/VBA financial models, ensuring accurate and consistent evaluation.
+- Work with the professor to integrate AI into model building and to design assignments that test understanding while reducing his workload.
+
+### Sales Advisor | Tesla, Inc.
+
+*Idaho Falls, ID | August 2025 – February 2026*
+
+- Advised 1,000+ clients on pricing and financing options across test drives, contributing to an estimated $1.5M+ in influenced sales.
+- Designed an Excel/VBA CRM to track conversions and follow-ups, ensuring no client opportunity went unaddressed.
+
+### Administrative Assistant | Teton Valley Lodge
+
+*Driggs, ID | May 2024 – August 2025*
+
+- Processed high-value customer payments for a multi-million-dollar lodge operation using QuickBooks and Excel, keeping financial records accurate across all transactions.
+- Built Excel systems to manage payroll and tip allocation of $10,000+ per pay period across 75+ employees, and organized monthly billing and receipts.
+
+### Receptionist | Foothills Rehabilitation
+
+*Idaho Falls, ID | May 2024 – January 2025*
+
+- Processed insurance claims and patient payments with full accuracy, verifying coverage, reconciling balances, and resolving discrepancies in compliance with office procedures.
+
+### Sales and Product Flow Assistant | Best Buy Co., Inc.
+
+*Logan, UT | September 2022 – January 2024*
+
+- Tracked sales and inventory data across 8+ departments to benchmark store performance against other locations nationwide and guide restocking decisions.
+
+## Projects
+
+- **ExxonMobil Equity Research** (Bloomberg Terminal, Excel): analyzed revenue and cost trends across the income statement, balance sheet, and cash flow; built a CFA-style valuation from comparables, beta, and analyst consensus.
+- **U.S. Treasury Bond Pricing Model** (Excel, VBA): fixed-income pricing tool with a custom yield-curve interpolation function that generates a recurring automated daily PDF report.
+- **Real Estate and Mortgage Model** (Excel): 360-month cash-flow forecast with dynamic PMI lookup and refinance break-even and rate-buydown scenario analysis.
+- **Automated Stock Alert Monitor** (Excel, VBA, Gmail): tracks live prices against preset targets and sends automated email alerts when actuals cross thresholds; built to keep working through any sheet edits.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+### Brigham Young University–Idaho
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+*Rexburg, ID | Expected April 2027*
 
-- Sizar
+B.S., Financial Economics; Minor: Business Analytics; GPA 3.9. Coursework: Advanced Financial Management, Managerial Economics, Econometrics, Data Science Programming (Python).
 
-`1667 - death`
-__Trinity College, Cambridge__
+### Utah State University
 
-- Fellow
+*Logan, UT | August 2023*
 
+A.S., Aviation Technology; FAA Private Pilot; 100+ flight hours.
 
+## Certifications
 
-## Awards
+- FAA Private Pilot (2022)
+- Bloomberg Market Concepts (2026)
+- Data Science Certificate, BYU–Idaho (2026)
+- Business Fundamentals, BYU–Idaho (2025)
+- In progress: SAP S/4HANA finance fundamentals coursework (SAP Learning)
 
-`2012`
-President, *Royal Society*, London, UK
+## Volunteer Experience
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+**Volunteer English Teacher** | International Language Programs, Vanuatu — taught 50+ students abroad (February – May 2024)
